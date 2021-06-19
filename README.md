@@ -1,0 +1,2 @@
+# AGamer
+For auto game 
